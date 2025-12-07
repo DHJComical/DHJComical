@@ -31,9 +31,9 @@ Here are some of the projects I'm working on:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-taupe-zeta.vercel.app/api?username=DHJComical&show_icons=true&theme=dracula&hide_border=true" alt="DHJComical's GitHub Stats" />
+  <img src="https://github-readme-stats-nu-five-37.vercel.app/api?username=DHJComical&show_icons=true&theme=dracula&hide_border=true" alt="DHJComical's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-taupe-zeta.vercel.app/api/top-langs/?username=DHJComical&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-nu-five-37.vercel.app/api/top-langs/?username=DHJComical&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
