@@ -1,6 +1,6 @@
 # Hi there, I'm Comical (DHJComical) 👋
 
-> 🎯 **专注中 (Focusing)**
+> 🎯 **Minecraft modding**
 
 我是 **DHJComical**，一名热衷于 **Minecraft 模组开发（移植）** 和 **游戏工具制作** 的开发者。我致力于通过代码优化游戏体验，并为社区提供便捷的开发模板与工具。
 
